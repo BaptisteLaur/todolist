@@ -1,0 +1,4 @@
+crud/api/node_modules
+crud/api/.env
+crud/db/data
+crud/db/.env
